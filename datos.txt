@@ -1,0 +1,6 @@
+Juan Perez, 8
+Maria Gomez, 7
+Carlos Sanchez, 8
+Juan Perez, 9
+Maria Gomez, 8
+Carlos Sanchez, 7
